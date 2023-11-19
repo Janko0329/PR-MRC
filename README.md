@@ -48,6 +48,6 @@ You can download our trained model at the following link.
 
 |         | NCBI-Disease               | BC2GM | BC5CDR-Chem |
 |---------|----------------------------|-------|-------------|
-| PR-MRC  | [a](https://www.baidu.com) |       |             |
-| EGP-MRC |                            |       |             |
+| PR-MRC  | [a]( ) | [a]( )|[a]( )|
+| EGP-MRC |[a]( ) | [a]( )|[a]( )|
 
