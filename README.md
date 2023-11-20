@@ -49,6 +49,6 @@ You can download our trained model at the following link.
 
 |         | NCBI-Disease               | BC2GM | BC5CDR-Chem |
 |---------|----------------------------|-------|-------------|
-| PR-MRC  | [checkpoints](https://drive.google.com/file/d/1mGbYCg8S45PQGGtbh8BnPxnexZkyEP27/view?usp=sharing) | [checkpoints]( )|[checkpoints]( )|
-| EGP-MRC |[checkpoints]( ) | [checkpoints]( )|[checkpoints]( )|
+| PR-MRC  | [checkpoints](https://drive.google.com/file/d/1m6Wy5DlrPxFpmcb27hSI3S1Y0mAfxCSy/view?usp=sharing) | [checkpoints](https://drive.google.com/file/d/1mGbYCg8S45PQGGtbh8BnPxnexZkyEP27/view?usp=sharing)|[checkpoints](https://drive.google.com/file/d/18DLSUbrleRa5JtHoA2910TeHwktY65P-/view?usp=sharing)|
+| EGP-MRC |[checkpoints]( ) | [checkpoints](https://drive.google.com/file/d/1_41K1gC07_ul58YeQ8WFVj_9WHIAIn-R/view?usp=sharing)|[checkpoints](https://drive.google.com/file/d/19Mnqx8ehEKER6lspUL1jpATmYI6TMDk3/view?usp=sharing)|
 
