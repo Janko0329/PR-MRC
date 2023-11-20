@@ -3,6 +3,7 @@ Source codes and data for Paper: Span-based Model for Biomedical Named Entity Re
 
 ## Data
 The dataset required for the experiment has been placed ```/read_data/data/Data_set/```.
+
 You can use your own dataset for substitution.
 
 ## Run
@@ -48,6 +49,6 @@ You can download our trained model at the following link.
 
 |         | NCBI-Disease               | BC2GM | BC5CDR-Chem |
 |---------|----------------------------|-------|-------------|
-| PR-MRC  | [checkpoints]( ) | [checkpoints]( )|[checkpoints]( )|
+| PR-MRC  | [checkpoints](https://drive.google.com/file/d/1mGbYCg8S45PQGGtbh8BnPxnexZkyEP27/view?usp=sharing) | [checkpoints]( )|[checkpoints]( )|
 | EGP-MRC |[checkpoints]( ) | [checkpoints]( )|[checkpoints]( )|
 
